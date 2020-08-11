@@ -13,7 +13,7 @@ public class Test1 {
 		java.util.Date date=new java.util.Date();  
 
 		System.out.println(date);  
-		
+		System.out.println(date);  
 		/*DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");
 		   LocalDateTime now = LocalDateTime.now();
 		   System.out.println(dtf.format(now));*/
